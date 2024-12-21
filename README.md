@@ -12,6 +12,7 @@ A simple and efficient iOS app for scanning and decoding barcodes.
 - Swift 5
 
 # Usage
-1- Open the app.
-2- Point your device's camera at a barcode.
-3- View the decoded information instantly.
+- Open the app.
+- Point your device's camera at a barcode.
+- View the decoded information instantly.
+
